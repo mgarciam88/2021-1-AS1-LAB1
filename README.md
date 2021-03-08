@@ -9,7 +9,8 @@
 <li>git add 'CU_BusTransaction.jpg'</li>
 <li>git config --global user.email "mgarciam88@miumg.edu.gt"</li>
 <li>git config --global user.name "mgarciam88"</li>
-<li>git commit -m "Se Agregan los archivo Laboratoria#1.pdf y CU_BusTransaction.jpg"</li>
+<li>git commit -m "Diagrama de Caso de Uso Buses Extraurbanos"</li>
+<li>git commit -m "Se agrega el Archivo Laboratorio#1.pdf"</li>
 <li>git push</li>
 <li>git add 'README.md'</li>
 <li>git commit -m "Ultima modificacion a Archivo README.md"</li>
